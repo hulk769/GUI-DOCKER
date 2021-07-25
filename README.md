@@ -1,5 +1,5 @@
 https://drive.google.com/file/d/1-u_Q-qh5t38e7imxDg97kUb0T4fX9FV4/view?usp=sharing
-## REFER DOCKER IMAGE:-  docker pull harshal769/guieditor <br>
+## REFER DOCKER IMAGE:-  docker pull harshal769/guieditor:v1 <br>
 # GUI-in-Docker
 GUi in docker running (Graphical User Interface) in Docker 
 
