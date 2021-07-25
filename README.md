@@ -30,7 +30,7 @@ GUi in docker running (Graphical User Interface) in Docker
 
  CMD gedit
  
- 7) docker build -t guieditor:v1 . ("This will create a image of guieditor with version v1")
+ 7) docker build -t guieditor:v1 . ("This will create a image with name 'guieditor' with version 'v1' ")
  
  8) docker images ("you will see guieditor:v1 image")
  
